@@ -1,7 +1,7 @@
 # niksfis
  nis fis test website
  
- source of the website: [https://niri123123.github.io/niksfis/](https://niri123123.github.io/niksfis/)
+ source of the website: [https://niri123123.github.io/](https://niri123123.github.io/)
  
  also includes many backup files used for testing.
 
