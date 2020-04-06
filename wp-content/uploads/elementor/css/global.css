@@ -109,3 +109,4 @@
 .elementor-widget-eael-wpforms .eael-wpforms .wpforms-field label {font-family: "Roboto",Sans-serif;font-weight: 500;}
 .elementor-widget-eael-wpforms .eael-wpforms .wpforms-field input:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file]), .elementor-widget-eael-wpforms .eael-wpforms .wpforms-field textarea, .elementor-widget-eael-wpforms .eael-wpforms .wpforms-field select {font-family: "Roboto",Sans-serif;font-weight: 500;}
 .elementor-widget-eael-wpforms .eael-wpforms .wpforms-submit-container .wpforms-submit {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-lightbox {background-color: rgba(83,83,83,0);}
